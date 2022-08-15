@@ -1,23 +1,17 @@
-## Project Setup
+## Live 📍
 
-```sh
+https://kamilsutkowski.github.io/widget-player/
+
+## Installation 💾
+
+```bash
+
+git clone https://github.com/kamilsutkowski/widget-player.git
+
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
+
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
